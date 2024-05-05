@@ -4,5 +4,4 @@
 <h3 align="left">Languages and Tools:</h3>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nacglalevin&show_icons=true&locale=en&layout=compact" alt="kimjayden" /></p>
-<div align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=nacglalevin&theme=xcode" /> </div>
-<div align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=nacglalevin" /> </div>
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=organom&theme=dark&date_format=M%20j%5B%2C%20Y%5D)
