@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Lalevin Martin</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Lalevin&label=Profile%20views&color=0e75b6&style=flat" alt="kimjayden" /> </p>
+<h3 align="left">Contact me:</h3>
 <p align="left">
 <a href="https://twitter.com/jelajahkoding" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="jelajahkoding" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/luqmanulhakim5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="luqmanulhakim5" height="30" width="40" /></a>
