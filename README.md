@@ -7,4 +7,13 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nacglalevin&show_icons=true&title_color=ffffff&icon_color=2A75CF&text_color=daf7dc&bg_color=191919">
 </p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nacglalevin&" alt="peter-kimanzi" /></p>
+[![](https://img.shields.io/badge/-Pascal-3065A6?style=flat-square)](https://www.freepascal.org/)
+[![](https://img.shields.io/badge/-Java-red?style=flat-square&logo=openjdk&logoColor=black)](https://www.oracle.com/java/)
+[![](https://img.shields.io/badge/-PHP-informational?style=flat-square&logo=php&logoColor=white)](https://www.php.net/)
+[![](https://img.shields.io/badge/-JavaScript-114514?style=flat-square&logo=javascript&logoColor=white)](https://www.ecma-international.org/)
+[![](https://img.shields.io/badge/-Vue.js-4fc08d?style=flat-square&logo=vue.js&logoColor=ffffff)](https://vuejs.org/)
+[![](https://img.shields.io/badge/-Go-04ABD7?style=flat-square&logo=go&logoColor=black)](https://golang.org/)
+[![](https://img.shields.io/badge/-Dart-04589C?style=flat-square&logo=dart&logoColor=white)](https://dart.dev/)
+[![](https://img.shields.io/badge/-Latex-008080?style=flat-square&logo=latex&logoColor=white)](https://www.latex-project.org/)
+[![](https://img.shields.io/badge/-Python-4381b3?style=flat-square&logo=python&logoColor=white)](https://www.python.org/)
 
