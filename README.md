@@ -6,6 +6,12 @@
 <p align='center'>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nacglalevin&show_icons=true&title_color=ffffff&icon_color=2A75CF&text_color=daf7dc&bg_color=191919">
 </p>
+<table border=0>
+  <tr>
+    <td><img src="https://github-readme-stats.vercel.app/api?username=nacglalevin&show_icons=true&count_private=true&theme=vue-light&hide_border=true" alt="HuiDBK's GitHub stats" style="zoom:100%;" align="left"/></td>
+    <td><img src="https://4sdvg7tqbv.us.aircode.run/juejin?uid=817692384431470&hide_border=true" alt="HuiDBK的掘金数据" style="zoom:100%;" align="left"/></td>
+  </tr>
+</table>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nacglalevin&" alt="peter-kimanzi" /></p>
   <details open>
      </div>
