@@ -6,9 +6,6 @@
 <p align='center'>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nacglalevin&show_icons=true&title_color=ffffff&icon_color=2A75CF&text_color=daf7dc&bg_color=191919">
 </p>
-<div align="center">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=7bf763&width=435&lines=欢迎来NACG&center=true&size=27" alt="Typing SVG" />
-  </a>
 </div>
 
 ![](https://raw.githubusercontent.com/javadog-net/javadog-net/output/github-contribution-grid-snake.svg)
