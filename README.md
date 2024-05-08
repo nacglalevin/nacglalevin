@@ -6,6 +6,11 @@
 <p align='center'>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nacglalevin&show_icons=true&title_color=ffffff&icon_color=2A75CF&text_color=daf7dc&bg_color=191919">
 </p>
+</div>
+
+![](https://cdn.jsdelivr.net/gh/nacgalevin/nacgalevinmain/assets/github-contribution-grid-snake.svg)
+
+</details>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nacglalevin&" alt="peter-kimanzi" /></p>
   <details open>
      </div>
