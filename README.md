@@ -40,4 +40,4 @@
 [![](https://img.shields.io/badge/-Python-4381b3?style=flat-square&logo=python&logoColor=white)](https://www.python.org/)
 
 </details>
-
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nacglalevin&" alt="peter-kimanzi" /></p>
