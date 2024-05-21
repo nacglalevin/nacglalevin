@@ -5,9 +5,10 @@
 
 ![](https://raw.githubusercontent.com/javadog-net/javadog-net/output/github-contribution-grid-snake.svg)
  <details open>
-- 👔I’m currently working NACG
 
 - 🤖 I’m currently learning C++, Managing Engineering Team NACG
+
+- 👔I’m currently working NACG
 
 - 🏢 I’m also work as Engineering Manage
 
