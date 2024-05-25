@@ -46,4 +46,4 @@ width="40" height="40"/>
 [![](https://img.shields.io/badge/-Python-4381b3?style=flat-square&logo=python&logoColor=white)](https://www.python.org/)
 
 </details>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nacglalevin&" alt="peter-kimanzi" /></p>
+<p><img align="right" width="402" height="158" src="https://github-readme-streak-stats.herokuapp.com/?user=YHYJ&theme=blueberry-duo" alt="nacglalevin" /></p>
