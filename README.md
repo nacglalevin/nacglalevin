@@ -20,6 +20,10 @@
 
 - 🎮 Fun Fact I love playing computer games
 </details>
+<h3 align="left">Connect with me:</h3>
+<p align="left"> <a <img
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Lalevin""
+width="40" height="30"/> </p>
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Lalevin""
 width="40" height="30"/> </p>
