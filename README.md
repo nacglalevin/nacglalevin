@@ -48,9 +48,5 @@ width="40" height="40"/>
 
 </details>
 <p><img align="right" width="402" height="158" src="https://github-readme-streak-stats.herokuapp.com/?user=nacglalevin&theme=blueberry-duo" alt="nacglalevin" /></p>
-| `SELECT A CHOICE`  |
-| ------------- |
-|href="https://github.com/nacglalevin/ddos">`DDos attack range`</a><br/><center><i>There are multiple versions that can attack the target ddos</i></center>  |
-
 
 
