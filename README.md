@@ -4,7 +4,8 @@
 </div>
 
 ![](https://raw.githubusercontent.com/javadog-net/javadog-net/output/github-contribution-grid-snake.svg)
- <details open>
+ <details>
+ <summary> 👇🏻 About Me</summary>
 
 - 👔 I’m currently working NACG-Mohr Union
 
