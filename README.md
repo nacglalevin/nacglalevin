@@ -4,7 +4,7 @@
 </div>
 
 ![](https://raw.githubusercontent.com/nacglalevin/nacglalevin/output/github-contribution-grid-snake.svg)
-<img  src="https://github.com/nacglalevin/nacglalevin/blob/main/1717817723207_edit_131919396324140.jpg" alt="Lalevin" width="100" height="40"/> </a> 
+<img  src="https://github.com/nacglalevin/nacglalevin/blob/main/1717817723207_edit_131919396324140.jpg" alt="Lalevin" width="600" height="100"/> </a> 
  <details>
 
 - 👔 I’m currently working NACG-Mohr Union
