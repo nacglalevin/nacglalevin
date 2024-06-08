@@ -5,8 +5,6 @@
 
 ![](https://raw.githubusercontent.com/nacglalevin/nacglalevin/output/github-contribution-grid-snake.svg)
  <details>
-<img  src="https://github.com/nacglalevin/nacglalevin/blob/main/1717817723207_edit_131919396324140.jpg" alt="go" width="40" height="40"/> </a>
- <summary> 👇🏻 About Me</summary>
 
 - 👔 I’m currently working NACG-Mohr Union
 
