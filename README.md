@@ -18,7 +18,7 @@
 
 - ✉️ Ask me about Attack program Virus samples
 
-- 📬 How to reach me  zzlyxht@outlook.com
+- 📬 How to reach me rsjdcl@gmail.com
 
 - 🎮 Fun Fact I love playing computer games
 </details>
