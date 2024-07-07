@@ -9,7 +9,7 @@
   <img alt="github-snake" src="github-snake.svg" />
 </picture>
 </br>
-src="https://github.com/nacglalevin/nacglalevin/blob/main/1717817723207_edit_131919396324140.jpg" alt="Lalevin" width="600" height="
+ <img src="https://github.com/nacglalevin/nacglalevin/blob/main/1717817723207_edit_131919396324140.jpg" alt="Lalevin" width="600" height="
 210"/> </a> 
  <details>
 
