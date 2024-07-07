@@ -2,13 +2,11 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Lalevin&label=Profile%20views&color=0e75b6&style=flat" alt="kimjayden" /> </p>
 <h3 align="center">A Python-obsessed maniac,Chinese name Kong Lingshuo</h3>
 </div>
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/nacglalevin/nacglalevin/blob/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://github.com/nacglalevin/nacglalevin/blob/output/github-contribution-grid-snake.svg" />
   <img alt="github-snake" src="github-snake.svg" />
-</picture>
-</br>
+</picture></br>
  <img src="https://github.com/nacglalevin/nacglalevin/blob/main/1717817723207_edit_131919396324140.jpg" alt="Lalevin" width="600" height="
 210"/> </a> 
  <details>
