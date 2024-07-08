@@ -11,9 +11,9 @@
 210"/> </a> 
  <details>
 
-- 👔 I’m currently working NACG-Mohr Union
+- 👔 Worked as a penetration testing engineer at Nack Morunion
 
-- 🤖 I’m currently learning C++, Managing Engineering Team NACG-Mohr Union
+- 🤖  Managing Engineering Team NACG-Mohr Union
 
 - 🏢 I’m also work as Engineering Manage
 
