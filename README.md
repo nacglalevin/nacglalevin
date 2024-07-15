@@ -62,5 +62,6 @@ width="40" height="40"/>
 [![](https://img.shields.io/badge/-Python-4381b3?style=flat-square&logo=python&logoColor=white)](https://www.python.org/)
 
 </details>
+[![](https://github-readme-stats-gray-sigma.vercel.app/api?username=nacglalevin&count_private=1&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 
