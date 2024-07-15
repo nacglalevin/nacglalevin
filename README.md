@@ -63,6 +63,4 @@ width="40" height="40"/>
 
 </details>
 
-[![](https://github-readme-stats-gray-sigma.vercel.app/api?username=nacglalevin&count_private=1&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-
 
