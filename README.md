@@ -31,7 +31,7 @@
  <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/c/ce/Twitch_logo_2019.svg" alt="Canal de Twitch de midudev" height="40" width="40" />
   </a>
 <a href="https://twitter.com/Lalevin227167" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="jelajahkoding" height="30" width="40" /></a>
-<a href="mailto:rsjdcl@gmail.com"><img src="https://github.com/PrinceGoblinTech/PrinceGoblinTech/blob/main/assets/gmail.png" alt="Gmail" height="30" title="Send mail"></a>
+<a href="mailto:rsjdcl@gmail.com"><img src="https://github.com/PrinceGoblinTech/PrinceGoblinTech/blob/main/assets/gmail.png" alt="Gmail" height="25" title="Send mail"></a>
 <a href="https://www.linkedin.com/in/lalevin-martin-303508308" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="luqmanulhakim5" height="30" width="40" /></a>
 <a href="https://www.instagram.com/nacglalevin/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jelajahkoding" height="30" width="40" /></a>
 <a href="https://www.youtube.com/@LalevinMartin-tm1ps" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="jelajahkoding" height="30" width="40" /></a>
